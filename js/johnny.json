@@ -1,0 +1,303 @@
+
+{
+    "timeline":
+    {
+        "headline":"Johnny Manziel Timeline",
+        "type":"default",
+		"text":"Johnny Manziel is on the rise, his road to stardom is legendary",
+		"startDate":"2012,1,26",
+        "asset":{
+            "media":"http://assets.nydailynews.com/polopoly_fs/1.1212695!/img/httpImage/image.jpg_gen/derivatives/landscape_635/manziel.jpg",
+            "credit":"Photo Credit: New York Daily News"       
+        },  
+
+        "date": [
+            {
+                "startDate":"2010,12,6",
+                "headline":"Hey Jonathan (18th Birthday)",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Johnny_Manziel",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,2,2",
+                "headline":"Home of the 12th Man",
+                "text":"<p>After receiving offers from teams like the Oregon Ducks, Johnny decided to stay closer to home and sign with Texas A&M</p>",
+                "asset":
+                {
+                    "media":"http://0.tqn.com/d/collegefootball/1/0/y/1/-/-/kyle.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,2,3",
+                "headline":"Love for the Oregon Ducks",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://twitter.com/JManziel2/statuses/287019968283938816",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,6,29",
+                "headline":"The Shirtless Mugshot",
+                "text":"<p>A few weeks before Manziel first start in a college game he was arrested on disordely conduct</p>",
+                "asset":
+                {
+                    "media":"http://i.cdn.turner.com/dr/teg/tsg/release/sites/default/files/imagecache/670xX/photos/johnnymanziel.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,9,29",
+                "headline":"First SEC Win",
+                "text":"Broke Archie Manning 43-year old total yard record with 557 yards of total offense against Arkansas",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=FCo83aiPZGs",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,11,10",
+                "headline":"Heisman Moment",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=L73hKMz4vkI",
+                    "credit":"",
+                    "caption":"Tough win against #1 ranked Alabama on the road"
+                }
+            },
+			{
+                "startDate":"2012,12,8",
+                "headline":"Wins Heisman Award",
+                "text":"Manziel became the first redshirt freshman to win the Heisman Award",
+                "asset":
+                {
+                    "media":"http://www.totalprosports.com/wp-content/uploads/2012/12/johnny-manziel-girlfriend-with-heisman-409x410.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2013,1,4",
+                "headline":"Cotton Bowl Champion",
+                "text":"Set the Cotton Bowl Record with 516 total yards in a winning effort against win against Oklahoma",
+                "asset":
+                {
+                    "media":"https://twitter.com/JManziel2/statuses/287450082251522048",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2012,12,4",
+                "headline":"Verified on Twitter",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://twitter.com/JManziel2/statuses/276082068532887552",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,8,15",
+                "headline":"Wins Starting Quarterback Job",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.dallasnews.com/incoming/20121124-texas-a_m-alabama-football_28244993_132123.jpg.ece/BINARY/w620x413/Texas+A_M+Alabama+Football_28244993_132123.JPG",
+                    "credit":"Photo Credit: Dallas News",
+                    "caption":"First Redshirt Freshman to start at A&M in the modern era"
+                }
+            },
+            {
+                "startDate":"2013,1,5",
+                "headline":"Cotton Bowl Celebration",
+                "text":"A day after winning the Cotton Bowl, Johnny was seen partying at Avenu in Dallas, TX",
+                "asset":
+                {
+                    "media":"http://bloximages.chicago2.vip.townnews.com/aggiesports.com/content/tncms/assets/v3/editorial/7/56/7560fb00-5914-11e2-b4ab-001a4bcf887a/50eb43b59d51d.preview-300.jpg",
+                    "credit":"Photo Credit: TMZ",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,10,31",
+                "headline":"Scooby Doo for Halloween",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://cdn.bleacherreport.net/images_root/slides/photos/003/095/891/773126d7ca7220c_display_image.jpg?1365595861",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,1,4",
+                "endDate":"2013,1,5",
+                "headline":"WinStar World Casino",
+                "text":"Johnny and his friends went to a casino that was 18+ after the Cotton Bowl and did pretty well it seems",
+                "asset":
+                {
+                    "media":"http://cdn.bleacherreport.net/images_root/slides/photos/003/094/130/johnny-manziel-casino_original_display_image.jpg?1365529313",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,1,24",
+                "headline":"Trick Shot Video",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=n58bFRauLL4",
+                    "credit":"Dude Perfect",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,3,31",
+                "headline":"Meeting Lebron James",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://cdn.bleacherreport.net/images_root/slides/photos/003/095/929/lebron-johnny-manziel-1_original_display_image.jpg?1365598034",
+                    "credit":"",
+                    "caption":"Meeting happen after a Heat's win over the Spurs"
+                }
+            },
+             {
+                "startDate":"2013,3,31",
+                "headline":"First Pitch at Texas Rangers",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=TPLnagJretk",
+                    "credit":"",
+                    "caption":"Johnny is a long time Rangers fan"
+                }
+            },
+             {
+                "startDate":"2013,6,11",
+                "headline":"Johnny on First Take",
+                "text":"Johnny Manziel suprises Skip Bayless, a huge fan, by joining the Debate desk on First Take during the NBA Finals",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=h13hiVlzHwo",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,7,27",
+                "headline":"Thrown out of a UT Party",
+                "text":"A University of Texas fraternity kicked out Johnny out of their party, A&M is a rival to UT, Johnny wanted to play for Texas but they wanted him to play defense",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=PNDfGoFTA8c",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,7,28",
+                "headline":"Response to the Critics",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://twitter.com/JManziel2/statuses/361541751556673536",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,8,4",
+                "headline":"NCAA Autograph Investigation",
+                "text":"The NCAA began investigating if Manziel accepted payments for autographs that were signed in January, his family hired an attorney that had experience dealing with the NCAA before",
+                "asset":
+                {
+                    "media":"http://cdn.breitbart.com/mediaserver/Breitbart/Breitbart-Sports/2013/09/Manziel%20Lawyer%20Patricia%20G%20Photography%20Credit.jpg",
+                    "credit":"",
+                    "caption":"Johnny Manziel's Lawyer"
+                }
+            },
+            {
+                "startDate":"2012,12,17",
+                "headline":"Johnny Football on Jay Leno",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=2Z54EqU3vWQ",
+                    "credit":"",
+                    "caption":"Johnny explains the nickname"
+                }
+            },
+             {
+                "startDate":"2013,8,31",
+                "headline":"Suspended for a Half",
+                "text":"After the NCAA investigation Johnny was suspended for a half in the season opener against Rice during the game he was seen doing autograph taunts and was later benched for more taunting",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=zt6lVvTukcY",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,7,14",
+                "headline":"Kicked out of Manning Passing Academy",
+                "text":"Johnny was kicked out of the quarterback camp, rumors were it was because of partying but on a SEC Media Day he claim it was because he overslept",
+                "asset":
+                {
+                    "media":"http://thacover2.com/wp-content/uploads/2013/07/johnny-manziel-lied-bourbon-street-manning-passing-academy-566x377.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,9,14",
+                "headline":"JOVOhnny Football",
+                "text":"Johnny is a big fan of rapper Drake's OVO music label and even has OVO tatooed on his wrist, Johnny can be seen wearing OVO clothing and tweeting Drake lyrics on a regular basis. Drake is a fan of Johnny and sent a tweet before Johnny big game against #1 ranked Alabama Crimson Tide ",
+                "asset":
+                {
+                    "media":"https://twitter.com/Drake/statuses/378965598597705728",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2013,9,14",
+                "headline":"The Rematch",
+                "text":"Johnny didn't come out victorious in the rematch against #1 ranked Alabama but in the game he threw for a career best 464 yards. He also threw for 5 touchdowns",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=ksvdgxSP6oo",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            
+            
+            
+            
+
+
+			       
+        ]
+    }
+}
